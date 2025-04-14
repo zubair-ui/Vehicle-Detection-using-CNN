@@ -51,11 +51,11 @@ The CNN model achieved over **99% validation accuracy** after 10 epochs of train
 
 #### ✅ Accuracy Plot
 
-![Accuracy Plot](accuracy_plot.png)
+![Accuracy Plot](accuracy_plot.PNG)
 
 #### 🔻 Loss Plot
 
-![Loss Plot](loss_plot.png)
+![Loss Plot](loss_plot.PNG)
 
 ---
 
