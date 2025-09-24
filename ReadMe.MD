@@ -1,10 +1,10 @@
-# 🚗 Vehicle Detection Using CNN
+# Vehicle Detection Using CNN
 
 This project performs binary image classification using Convolutional Neural Networks (CNNs) to detect whether an image contains a **vehicle** or **not**.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset used in this project is publicly available on Kaggle:
 
@@ -26,7 +26,7 @@ data/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -35,7 +35,7 @@ data/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository or download the code files.
 2. Download the dataset from Kaggle and place it under the `data/` directory as shown above.
@@ -43,23 +43,23 @@ data/
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 The CNN model achieved over **99% validation accuracy** after 10 epochs of training.
 
-### 📈 Training Accuracy and Loss Plots
+### Training Accuracy and Loss Plots
 
-#### ✅ Accuracy Plot
+#### Accuracy Plot
 
 ![Accuracy Plot](accuracy_plot.PNG)
 
-#### 🔻 Loss Plot
+#### Loss Plot
 
 ![Loss Plot](loss_plot.PNG)
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.
 
